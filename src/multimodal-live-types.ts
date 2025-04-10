@@ -47,7 +47,7 @@ export type LiveGenerationConfig = GenerationConfig & {
     voiceConfig?: {
       prebuiltVoiceConfig?: {
         // Set voiceName to "Charon"
-        voiceName: "Charon",
+        voiceName: "Aoede",
       };
     };
   };
